@@ -2,8 +2,9 @@
 
 Project Developed by:
 
-Mention your name
-Regnumber , college name....
+Nirmal A K
+
+712221205022, park college of engineering and technology
 
 ### Note Keeping App
 
